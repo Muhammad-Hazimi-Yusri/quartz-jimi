@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Muhammad Hazimi Bin Yusri
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -18,12 +18,11 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Muhammad Hazimi Bin Yusri Website Portfolio. mhby1g21@soton.ac.uk University of Southampton Electrical and Electronics Engineering Student.
 page_title:
-  "🪴 Quartz 3.3"
+  "Muhammad Hazimi Bin Yusri"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  - link_name: Instagram
+    link: https://www.instagram.com/muhd.hazimi.yusri/
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/Muhammad-Hazimi-Yusri/
