@@ -1,29 +1,28 @@
 ---
-title: Jimi is here
+title: Muhammad Hazimi Bin Yusri
 enableToc: false
 ---
-TESTINGG!!
 
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+**Welcome to My Portfolio: Exploring the Intersection of Innovation and Engineering**
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+Hey there! I'm [Muhammad Hazimi Bin Yusri](#about), a passionate 3rd Year MEng Electrical and Electronic Engineering student at the [University of Southampton](#university). I'm excited to have you here, exploring my portfolio where I showcase my ongoing projects and accomplishments.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+At the heart of my work is a relentless curiosity and a strong desire to solve complex problems. I combine theoretical knowledge with practical skills in areas like [circuit design](#circuit-design), [signal processing](#signal-processing), [control systems](#control-systems), and [embedded systems](#embedded-systems). Through my projects, I aim to push the boundaries of technology and create innovative solutions.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Internships play a crucial role in shaping an engineer's career, and I'm actively seeking opportunities to apply my skills and expand my horizons. If you're looking for a dedicated and driven individual to join your team, I believe I can be a valuable asset. Feel free to reach out to me through the provided [contact information](#contact) to discuss potential collaborations or ask any questions.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Feel free to dive into my projects, where I document my journey in [fpv drone](#fpv-drone), [software development](#software-development), and more. Each project is meticulously crafted to provide insights into my problem-solving approach and technical expertise.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+Thank you for visiting my portfolio. I'm excited to explore potential opportunities and collaborate with like-minded individuals. Let's embark on this exciting engineering journey together!
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+**Quick Links:**
+- [About Me](#about)
+- [University of Southampton](#university)
+- [Circuit Design](#circuit-design)
+- [Signal Processing](#signal-processing)
+- [Control Systems](#control-systems)
+- [Embedded Systems](#embedded-systems)
+- [Contact](#contact)
 
+*Note: Simply click on any section to jump directly to the respective content.*
