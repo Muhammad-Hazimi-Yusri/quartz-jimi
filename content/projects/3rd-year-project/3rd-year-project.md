@@ -5,8 +5,8 @@ Module homepage for more info: https://secure.ecs.soton.ac.uk/notes/comp3200/
 
 Todo:
 
-1. Ask ChatGPT for help organization etc [[quartz-jimi/content/projects/3rd-year-project/chatgpt-conversation-3rd-year-project|chatgpt-conversation-3rd-year-project]]
-2. [[quartz-jimi/content/projects/3rd-year-project/gantt-chart|gantt-chart]]
+1. Ask ChatGPT for help organization etc [ChatGPT help for organisation](chatgpt-conversation-3rd-year-project) 
+2. [Gantt Chart](gantt-chart)
 3. Github, hackaday project to organize and log everything!
 4. ~~Finish this writeup!~~
 

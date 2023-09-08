@@ -1,7 +1,7 @@
 ---
 title: "chatgpt-conversation-3rd-year-project"
 ---
-for [quartz-jimi/content/projects/3rd-year-project/3rd-year-project|3rd-year-project]
+for [3rd year project](3rd-year-project)
 link: https://chat.openai.com/share/4eeb3f27-aa5e-4398-9f4a-b8082cd01c0c
 
 
