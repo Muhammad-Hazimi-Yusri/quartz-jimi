@@ -14,7 +14,7 @@ I've always been interested in [programming](single_pages/programming.md) and it
 
 Internships play a crucial role in shaping an engineer's career, and I'm actively seeking opportunities to apply my skills and expand my horizons. If you're searching for a dedicated and driven individual to join your team, I believe I can be a valuable asset. Please don't hesitate to reach out to me through the provided [contact information](mailto:mhby1g21@soton.ac.uk) to discuss potential collaborations or ask any questions.
 
-I am currently focusing on my[[projects/3rd-year-project.md| 3rd year individual project]] which entails the development of low-cost stereoscopic (3D) camera clip-on for glasses which can be used for VR media creation with immense lifelogging capabilities.
+I am currently focusing on my[[quartz-jimi/content/projects/3rd-year-project/3rd-year-project| 3rd year individual project]] which entails the development of low-cost stereoscopic (3D) camera clip-on for glasses which can be used for VR media creation with immense lifelogging capabilities.
 
 Thank you for visiting my portfolio. I'm excited to explore potential opportunities and collaborate with like-minded individuals. Let's embark on this exciting engineering journey together!
 

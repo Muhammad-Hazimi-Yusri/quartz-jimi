@@ -1,16 +1,18 @@
 ---
 title: "3rd-year-project"
 ---
-Todo:
-1. Gantt Chart
-2. Git project to organize and log everything!
-3. Finish this writeup!
+Module homepage for more info: https://secure.ecs.soton.ac.uk/notes/comp3200/
 
-Previous Ideas:
+Todo:
+
+1. Ask ChatGPT for help organization etc [[quartz-jimi/content/projects/3rd-year-project/chatgpt-conversation-3rd-year-project|chatgpt-conversation-3rd-year-project]]
+2. [[quartz-jimi/content/projects/3rd-year-project/gantt-chart|gantt-chart]]
+3. Github, hackaday project to organize and log everything!
+4. ~~Finish this writeup!~~
 
 
 Current Idea:
-Low-cost stereoscopic (3D) clip on camera for glasses thats useful for VR content creation and lifelogging. DIY friendly and open source if possible (need to ask uni about this).
+Low-cost, modular, stereoscopic (3D) clip on camera for glasses thats useful for VR content creation (SBS) and lifelogging. DIY friendly and open source if possible (need to ask uni about this).
 
 Features (Priority high to low):
 1. Lightweight
