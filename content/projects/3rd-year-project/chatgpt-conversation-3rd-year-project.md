@@ -19,11 +19,16 @@ Important conversation mainpoint:
     -[Low cost stereo camera | Hackaday.io](https://hackaday.io/project/19533-low-cost-stereo-camera)
     -[StereoPi v2 | Crowd Supply](https://www.crowdsupply.com/stereopi/stereopi-v2#:~:text=StereoPi%20is%20an%20open-source%20stereoscopic%20camera%20based%20on,computer%20vision%2C%20drone%20instrumentation%2C%20panoramic%20video%2C%20and%20more.) 
     -[OpenCV AI Kit - Lite | Indiegogo](https://www.indiegogo.com/projects/opencv-ai-kit-lite#/)
-    -[Spectacles by Snap Inc. • The Next Generation of Spectacles](https://www.spectacles.com/uk/)
+    -[Spectacles by Snap Inc. • The Next Generation of Spectacles](https://www.spectacles.com/uk/
+    -[Ray-Ban Meta Smart Glasses Features | Ray-Ban®GB](https://www.ray-ban.com/uk/ray-ban-meta-smart-glasses)
+
     - Research the hardware and software components typically used in such systems:
       USB camera (cheaper, more overhead in bandwidth and possibly more annoying protocol and driver) vs MIPI CSI-2 (easier driver, better quality and precision triggering for sync, but prob more expensive) https://youtu.be/8REu_h7bzHM
     - Understand the principles of stereo vision and how it applies to VR: most important is syncing the SBS (ipd? distance between camera and alignment), and the quality of both camera modules, and their camera settings to make sure both image/stills/video is as close as possible to each other
-3. **Selecting Components**:
+    - Idea:
+    -Add gesture based video capture (lifelogging focused), for example, start recording when both camera are covered (to save storage and know when to start record)
+    -Add metadata using AI scene detection for better query and make use of VR 3d space for better UI for searching ex: [Lifelog Exploration Prototype in Virtual Reality | SpringerLink](https://link.springer.com/chapter/10.1007/978-3-319-73600-6_36)
+1. **Selecting Components**:
     
     - Choose the hardware components for your camera system (e.g., cameras, lenses, microcontrollers, sensors, etc.).
     - Consider cost-effective options without compromising quality.
